@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color:#ffdb67;
+}
+
+html {
+    padding: 100px 80px ;
+ }
+
+p{
+    text-align: justify;
+    font-weight: 200;
+    line-height: 25px;
+
+}
